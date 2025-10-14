@@ -1,0 +1,56 @@
+# Easy Reels - Complete Requirements
+# Core AI and Video Processing Dependencies
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# Video Processing
+moviepy>=1.0.3
+
+# Computer Vision and Image Processing
+opencv-python>=4.8.0
+pillow>=9.5.0
+pillow-heif>=0.10.0
+
+# Numerical Computing
+numpy>=1.21.0
+
+# AI and API
+groq>=0.9.0
+
+# Instagram Integration
+instaloader>=4.10.0
+
+# HTTP Requests
+requests>=2.28.0
+
+# Environment Configuration
+python-dotenv>=1.0.0
+
+# Additional Utilities
+colorama>=0.4.6
+tqdm>=4.64.0
+
+# Development and Testing (Optional)
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Optional: Better JSON handling
+ujson>=5.7.0
+
+# Optional: Better date/time handling
+python-dateutil>=2.8.2
+
+# Optional: Logging enhancements
+rich>=13.0.0
+
+# Optional: Progress bars
+alive-progress>=3.1.0
+
+# Ensure tkinter is available (usually comes with Python)
+# tkinter (built-in with Python)
+
+# Platform-specific optional dependencies
+# Windows: pywin32>=306
+# macOS: pyobjc-framework-Cocoa>=9.0
+# Linux: python3-tk (system package)

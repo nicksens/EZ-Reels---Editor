@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Easy Reels - Main",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/easy_reels/main.py",
+      "console": "integratedTerminal",
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      }
+    },
+    {
+      "name": "Easy Reels - Debug",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/easy_reels/main.py",
+      "console": "integratedTerminal",
+      "args": [
+        "--debug"
+      ],
+      "env": {
+        "PYTHONPATH": "${workspaceFolder}"
+      }
+    }
+  ]
+}

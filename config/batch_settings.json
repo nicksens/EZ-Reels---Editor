@@ -1,0 +1,12 @@
+{
+  "output_directory": "C:/Users/Nicksen/Desktop/ig/no1basketballenjoyer",
+  "use_daily_limit": true,
+  "start_day": "11",
+  "daily_video_limit": "6",
+  "auto_crop": true,
+  "generate_title": false,
+  "add_branding": false,
+  "add_logo": false,
+  "continue_on_error": true,
+  "saved_date": "2025-10-12T00:34:19.652912"
+}
